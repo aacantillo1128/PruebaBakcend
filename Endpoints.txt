@@ -1,0 +1,7 @@
+Para el registro: http://localhost:8080/auth/register
+Para el login: http://localhost:8080/auth/login
+Para obtener perfil -> http://localhost:8080/user/<username_a_busacar>
+Para actualizar el perfil -> http://localhost:8080/auth/register
+
+
+
